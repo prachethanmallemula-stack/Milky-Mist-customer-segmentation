@@ -19,10 +19,12 @@ This project applies **K-Means clustering** to Milky Mist customer survey data t
 ## 📊 Key Results & Insights
 
 ### Elbow Method
-![Elbow Method](results/elbow_method.png)
+<img width="593" height="332" alt="image" src="https://github.com/user-attachments/assets/4ebe9f6e-651d-4a8f-900a-098848aef512" />
 
-### Cluster Visualization
-![Cluster Plot](results/cluster_visualization.png)
+
+### Final Cluster Visualization with repective features
+<img width="839" height="516" alt="image" src="https://github.com/user-attachments/assets/a6a95b8f-7c5c-4e58-91b7-2bebfb9911c4" />
+
 
 ### Summary of Clusters
 | Cluster | Key Traits | Recommendation |
