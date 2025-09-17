@@ -16,12 +16,22 @@ This project applies **K-Means clustering** to Milky Mist customer survey data t
 - `notebooks/` – Jupyter Notebook with step-by-step clustering code
 - `results/` – Visualizations, cluster summaries, and insights
 
-##  Key Insights
-- **Cluster 1:** Price-sensitive but high-frequency buyers  
-- **Cluster 2:** Health-conscious premium customers  
-- **Cluster 3:** Bulk buyers focused on value-for-money  
-- **Cluster 4:** Impulse buyers, influenced by promotions  
-- **Cluster 5:** Loyal brand advocates with strong repeat purchases  
+## 📊 Key Results & Insights
+
+### Elbow Method
+![Elbow Method](results/elbow_method.png)
+
+### Cluster Visualization
+![Cluster Plot](results/cluster_visualization.png)
+
+### Summary of Clusters
+| Cluster | Key Traits | Recommendation |
+|--------|-------------|---------------|
+| 1 | Price-sensitive frequent buyers | Focus discounts & offers |
+| 2 | Health-conscious premium buyers | Promote healthy product range |
+| 3 | Bulk value buyers | Create family packs & bundles |
+| 4 | Impulse buyers | Target with flash sales & promotions |
+| 5 | Loyal advocates | Build loyalty programs |
 
 These insights can help design targeted campaigns, loyalty programs, and pricing strategies.
 
